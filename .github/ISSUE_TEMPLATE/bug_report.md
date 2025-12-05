@@ -1,20 +1,20 @@
 ---
-Name: Bug report
-About: Report a bug or unexpected behavior
+Name: "Bug report"
+About: "Report a bug or unexpected behavior"
 Title: "[BUG] "
 Labels: bug
 ---
 
-**Describe the bug**
+## Describe the bug  
 A clear and concise description of the problem.
 
-**Steps to reproduce**
+## 🔁 Steps to reproduce 
+---
 1.  
-2.  
-3.  
+---
 
-**Expected behavior**
+## ✅ Expected behavior  
 What should have happened?
 
-**Additional context**
+##  Additional context  
 Add logs or screenshots if needed.
