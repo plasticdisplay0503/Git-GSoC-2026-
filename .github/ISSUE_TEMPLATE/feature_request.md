@@ -2,18 +2,18 @@
 Name: "Feature request"
 About: "Suggest a new feature or improvement"
 Title: "[FEATURE] "
-Labels: Enhancement
+Labels: enhancement
 
 ---
 
-##​‍​‌‍​‍‌​‍​‌‍​‍‌ ✨ Summary 
-Describe the feature you want. 
+##  ✨ Summary  
+Describe the feature you want.
 
-## 💡 Why is it needed? 
-Help the users understand the problem or use-case that the proposed feature would solve. 
+## 💡 Why is it needed?  
+Explain the problem or use-case this feature solves.
 
-## 🧩 Possible approach 
-Usage or implementation of this feature. 
+## 🧩 Possible approach  
+Outline how this feature might be implemented.
 
-## Additional context 
-If it helps, you can provide pictures or write notes ​‍​‌‍​‍‌​‍​‌‍​‍‌here. 
+##  Additional context  
+Add screenshots, diagrams, or notes if useful.
