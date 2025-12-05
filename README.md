@@ -1,16 +1,20 @@
 # Git-GSoC-2026
-I created a long-term open-source project to help me get ready for Google Summer of Code (GSoC) .
-It will contain complete design, implementations, testing procedures and contribution guidelines built on this repository.
-It will evolve over a period of next few months as a result of community input, iterative development and methods.
 
-🚀 Goals
-1.Create a well-tested,clean and modular codebase.
-2.Review common open-source development cycles (issues, PRs, reviews, CI).
-3.Create documentation for all architectural and design decisions made.
-4.Identify key features that real contributors will benefit from.
+I created a long-term open-source project to help me get ready for Google Summer of Code (GSoC).  
+It will contain complete design, implementations, testing procedures, and contribution guidelines.  
+It will evolve over the coming months through community input and iterative development.
 
+---
 
-📂 Project Structurer
+## 🚀 Goals
+1. Create a well-tested, clean, and modular codebase.  
+2. Review common open-source development workflows (issues, PRs, reviews, CI).  
+3. Document all architectural and design decisions.  
+4. Identify and develop features that real contributors will benefit from.
+
+---
+
+## 📁 Project Structure
 ```
 GIT-GSoC-2026/
 │── src/          # Core implementation
