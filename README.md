@@ -7,10 +7,10 @@ It will evolve over the coming months through community input and iterative deve
 ---
 
 ## 🚀 Goals
-1. Create a well-tested, clean, and modular codebase.  
-2. Review common open-source development workflows (issues, PRs, reviews, CI).  
-3. Document all architectural and design decisions.  
-4. Identify and develop features that real contributors will benefit from.
+1.  Create a well-tested, clean, and modular codebase.  
+2.  Review common open-source development workflows (issues, PRs, reviews, CI).  
+3.  Document all architectural and design decisions.  
+4.  Identify and develop features that real contributors will benefit from.
 
 ---
 
@@ -28,7 +28,7 @@ GIT-GSoC-2026/
 
 
 ---
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 (To be finalized soon)
 ---
 
