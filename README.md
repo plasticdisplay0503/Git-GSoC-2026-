@@ -27,11 +27,12 @@ GIT-GSoC-2026/
 ```
 
 
-
-
-🛠️ Tech Stack
+---
+##🛠️ Tech Stack
 (To be finalized soon)
+---
 
-🤝 Contributions
+## 🤝 Contributions
 This repository will follow a standard open-source contribution workflow.
 A detailed Contributing.md file will be added later
+---
