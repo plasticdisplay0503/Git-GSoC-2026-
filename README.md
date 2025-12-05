@@ -4,10 +4,10 @@ It will contain complete design, implementations, testing procedures and contrib
 It will evolve over a period of next few months as a result of community input, iterative development and methods.
 
 🚀 Goals
-1)Create a well-tested,clean and modular codebase.
-2)Review common open-source development cycles (issues, PRs, reviews, CI).
-3)Create documentation for all architectural and design decisions made.
-4)Identify key features that real contributors will benefit from.
+1.Create a well-tested,clean and modular codebase.
+2.Review common open-source development cycles (issues, PRs, reviews, CI).
+3.Create documentation for all architectural and design decisions made.
+4.Identify key features that real contributors will benefit from.
 
 
 📂 Project Structurer
